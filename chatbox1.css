@@ -1,0 +1,30 @@
+.image{
+    background-image: url(https://th.bing.com/th/id/OIP.AifGjGEBOTDPBH_4Jeb9ugHaNL?rs=1&pid=ImgDetMain);
+background-size: cover;
+height: 100vh;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 40px;
+    background-color:rgb(170, 165, 165);
+}
+.content{
+    color: white;
+    text-align: right;
+    background-color: #47a347;
+    height: 40px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 5px;
+    padding:5px ;
+}
+.content1{
+    background-color:rgb(9, 168, 231) ;
+    font-family: Roboto;
+    height:  40px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius:5px ;
+    padding: 5px;
+
+}
